@@ -1,4 +1,4 @@
-# Integrating Attention with CycleGAN
+# 将注意力机制引入循环一致的对抗性网络
 
 ## 实验环境
 
